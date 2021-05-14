@@ -1,7 +1,7 @@
-### Mia Khalifa Bot
+### PatriciaV2
 
 <p align="center">
-<img src="https://telegra.ph/file/7891c5a8eb0ee937df8cd.jpg" alt="Mia Khalifa bot">
+<img src="https://telegra.ph/file/ec6f7ebb2bcb456902712.jpg" alt="Patricia Bot">
 
 [![Open Source Love](https://img.shields.io/badge/Find-on%20Telegram-blue.svg?logo=telegram)](https://telegram.dog/Mia_Khalifa_TGBot)  
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
@@ -19,7 +19,7 @@ Modular Telegram bot for managing your groups with a extras features with Hunter
 </p>
 
 ### Deploy To Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Adithyan1133-ctrl/Mia-Khalifa-Bot.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/bot-support-ctrl/Mia-Khalifa-Bot.git)
 
 ### Configuration
 
