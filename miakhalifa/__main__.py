@@ -58,8 +58,7 @@ def vercheck() -> str:
 
 
 SOURCE_STRING = """
-⚡I'm built in python3, using the python-telegram-bot library, and am fully opensource - you can find what makes me tick [here](https://github.com/Adithyan1133-ctrl/Mia-Khalifa-Bot)
-⚡You Can Clone Me [Here](https://heroku.com/deploy?template=https://github.com/Adithyan1133-ctrl/Mia-Khalifa-Bot.git)
+⚡I'm built in python3, using the python-telegram-bot library, and am  private code of [BLAZE](t.me/piroXpower)
 """
 
 
@@ -78,7 +77,7 @@ GDPR = []
 
 START_IMG = os.environ.get('START_IMG', None)
 if START_IMG is None:
-    img = "https://telegra.ph/file/262c433b646b60a81cf72.jpg"
+    img = "https://telegra.ph/file/ec6f7ebb2bcb456902712.jpg"
 else:
   img = START_IMG    
     
@@ -398,7 +397,7 @@ def get_settings(bot: Bot, update: Update):
             text = "Click here to get this chat's settings, as well as yours."
             msg.reply_text(text,
                            reply_markup=InlineKeyboardMarkup(
-                               [[InlineKeyboardButton(text="⚙️Settings⚙️",
+                               [[InlineKeyboardButton(text="🛠️Settings🛠️",
                                                       url="t.me/{}?start=stngs_{}".format(
                                                           bot.username, chat.id))]]))
         else:
