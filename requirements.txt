@@ -32,7 +32,6 @@ CurrencyConverter
 #translator
 googletrans
 jikanpy
-speedtest-cli
 pytz
 parsel
 hurry.filesize
